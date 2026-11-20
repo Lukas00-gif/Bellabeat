@@ -30,7 +30,7 @@ A análise utiliza dados públicos de dispositivos Fitbit disponibilizados na pl
 ## 📂 Fonte dos dados
 
 Os dados utilizados foram disponibilizados pelo usuário Mobius no Kaggle:
-https://www.kaggle.com/code/lukaslima/bellabeat-estudo-de-caso
+https://www.kaggle.com/datasets/arashnic/fitbit
 
 O conjunto contém informações de monitoramento de atividades físicas, passos, calorias e sono de usuários de dispositivos Fitbit.
 
